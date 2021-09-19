@@ -15,7 +15,7 @@
     <%= form.datetime_select :publish_at %>
    </div>
   </div>
-  <%= form.button "Scheduled", class:"btn btn-primary" %>
+  <%= form.button "Schedule", class:"btn btn-primary" %>
 
   <% if form.object.persisted? %>
     <%= link_to "Delete", form.object, method: :delete, data: {confirm: "Are you sure"}, class:"btn btn-outline-danger" %>
