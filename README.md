@@ -1,24 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Scheduled tweets app allows you to login to the application with your email account and add all your twitter accounts in order to choose from any account to scheduled tweets.
 
-Things you may want to cover:
+* Ruby version: 2.6.7
 
-* Ruby version
+App done following the course [Rails for Beginners](https://gorails.com/series/rails-for-beginners) by Chris Oliver
 
-* System dependencies
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
