@@ -1,6 +1,6 @@
 # README
 
-Scheduled tweets app allows you to login to the application with your email account and add all your twitter accounts in order to choose from any account to scheduled tweets.
+The project is based on Ruby and Ruby on Rails for the backend, and HTML with Ruby code embedded and Bootstrap for the frontend. In this application as a user you can register, login, update password, connect to twitter accounts, schedule and edit tweets prior to posting in the account chosen previously by the user
 
 * Ruby version: 2.6.7
 
